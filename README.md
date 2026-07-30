@@ -143,5 +143,6 @@ If you appreciate the project, consider starring the repository to support futur
 **Rust • Performance**
 
 Made with ❤️ by ZaZa Developers.
+
 -# credits to TheDarkSword for the whole template
 </p>
