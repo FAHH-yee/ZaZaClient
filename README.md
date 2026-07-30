@@ -144,5 +144,5 @@ If you appreciate the project, consider starring the repository to support futur
 
 Made with ❤️ by ZaZa Developers.
 
--# credits to TheDarkSword for the whole template
+credits to TheDarkSword for the whole template
 </p>
