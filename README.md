@@ -24,7 +24,7 @@ A modern, high-performance Windows and others application written in Rust.
 
 
 <p align="center">
-<img src="images/main-window.png" width="900">
+<img src="images/main.png" width="900">
 </p>
 
 ---
@@ -38,11 +38,11 @@ A modern, high-performance Windows and others application written in Rust.
 
 ---
 
-## Additional Preview
+## Injector
 
 
 <p align="center">
-<img src="images/preview.png" width="900">
+<img src="images/injector.png" width="900">
 </p>
 
 ---
